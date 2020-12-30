@@ -1,6 +1,6 @@
 ### Aloha! 👋 <img src="https://imgur.com/gallery/oZAIY.gif" width="30px">
 
-![](https://img.shields.io/badge/<Editor>-<Right>-informational?style=flat&logo=<Loogo>&logoColor=white&color=2bbc8a)
+![Test github stats](https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&show_icons=true&theme=algolia)
 
 <!--
 **S-B-Iqbal/S-B-Iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
