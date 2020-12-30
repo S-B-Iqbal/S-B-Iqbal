@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&custom_title=My Github Stats&hide=prs&show_icons=true&theme=algolia"  />
 </a>
 <a href="https://github.com/S-B-Iqbal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-B-Iqbal&hide=jupyter%20notebook,html&custom_title=Languages by Use&show_icons=true&layout=compact&theme=algolia&text_color=#3440eb,#07e825" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-B-Iqbal&hide=jupyter%20notebook,html&custom_title=Languages by Use&show_icons=true&layout=compact&theme=algolia&text_color=#3440eb,#07e825&line_height=20" />
 </a>
 
 **Languages and Tools:**   
