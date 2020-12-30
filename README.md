@@ -2,6 +2,8 @@
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&show_icons=true&theme=algolia)
 
+[![Stargazers repo roster for @S-B-Iqbal/S-B-Iqbal](https://reporoster.com/stars/S-B-Iqbal/S-B-Iqbal)](https://github.com/S-B-Iqbal/S-B-Iqbal/stargazers)
+
 <!--
 **S-B-Iqbal/S-B-Iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
