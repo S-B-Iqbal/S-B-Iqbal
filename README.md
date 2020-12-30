@@ -1,4 +1,4 @@
-### Aloha! 👋 
+<h1 align='center'> Aloha! :wave:</h1>
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&show_icons=true&theme=algolia)
 
