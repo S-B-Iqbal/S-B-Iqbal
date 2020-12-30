@@ -1,10 +1,10 @@
 <h1 align='center'> Aloha! :wave:</h1>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&hide=prs&show_icons=true&theme=algolia"  />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&custom_title=My Github Stats&hide=prs&show_icons=true&theme=algolia"  />
 </a>
 <a href="https://github.com/S-B-Iqbal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-B-Iqbal&show_icons=true&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-B-Iqbal&custom_title=Most Used Languages/Tools&show_icons=true&theme=algolia" />
 </a>
 
 **Languages and Tools:**   
