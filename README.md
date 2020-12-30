@@ -1,6 +1,6 @@
 ### Aloha! 👋 <img src="https://imgur.com/gallery/oZAIY.gif" width="30px">
 
-![Test github stats](https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&show_icons=true&theme=algolia)
+![Aloha](https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&show_icons=true&theme=algolia)
 
 <!--
 **S-B-Iqbal/S-B-Iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
