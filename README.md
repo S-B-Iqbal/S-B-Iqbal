@@ -1,7 +1,7 @@
 <h1 align='center'> Aloha! :wave:</h1>
 
 <a href="https://github.com/S-B-Iqbal/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&show_icons=true&theme=algolia" alt="Iqbal's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&show_icons=true&theme=algolia"  />
 </a>
 <a href="https://github.com/S-B-Iqbal/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-B-Iqbal&show_icons=true&theme=algolia" />
