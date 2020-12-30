@@ -1,4 +1,4 @@
-### Aloha! 👋 <img src="https://imgur.com/gallery/oZAIY" width="30px">
+### Aloha! 👋 <img src="https://imgur.com/gallery/oZAIY.gif" width="30px">
 
 ![](https://img.shields.io/badge/<Editor>-<Right>-informational?style=flat&logo=<Loogo>&logoColor=white&color=2bbc8a)
 
