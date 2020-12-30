@@ -1,6 +1,6 @@
 <h1 align='center'> Aloha! :wave:</h1>
 
-<a href="https://github.com/S-B-Iqbal/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&hide=prs&show_icons=true&theme=algolia"  />
 </a>
 <a href="https://github.com/S-B-Iqbal/github-readme-stats">
