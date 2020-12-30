@@ -1,6 +1,6 @@
 ### Aloha! 👋
 
-![](https://img.shields.io/badge/<Left>-<Right>-informational?style=flat&logo=<Loogo>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Editor>-<Right>-informational?style=flat&logo=<Loogo>&logoColor=white&color=2bbc8a)
 
 <!--
 **S-B-Iqbal/S-B-Iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
