@@ -4,6 +4,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-B-Iqbal&show_icons=true&theme=algolia)](https://github.com/S-B-Iqbal/github-readme-stats&show_icons=true&theme=algolia)
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-B-Iqbal&show_icons=true&theme=algolia" alt="Iqbal's github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-B-Iqbal&show_icons=true&theme=algolia" />
+</a>
+
 **Languages and Tools:**   
     
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
