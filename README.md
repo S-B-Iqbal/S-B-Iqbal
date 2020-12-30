@@ -1,14 +1,9 @@
 <h1 align='center'> Aloha! :wave:</h1>
 
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&show_icons=true&theme=algolia)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-B-Iqbal&show_icons=true&theme=algolia)](https://github.com/S-B-Iqbal/github-readme-stats&show_icons=true&theme=algolia)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&show_icons=true&theme=algolia" alt="Iqbal's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-B-Iqbal&show_icons=true&theme=algolia" />
 </a>
 
