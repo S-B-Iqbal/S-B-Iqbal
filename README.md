@@ -1,4 +1,4 @@
-### Aloha! 👋 <img src="https://imgur.com/gallery/oZAIY.gif" width="30px">
+### Aloha! 👋 
 
 ![Ajulu's Github Stats](https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&show_icons=true&theme=algolia&show_icons=true)
 
