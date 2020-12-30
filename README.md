@@ -2,8 +2,7 @@
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&show_icons=true&theme=algolia)
 
-[![Stargazers repo roster for @S-B-Iqbal/Predicting-Power-Output-of-a-combined-cycle-power-plant.](https://reporoster.com/stars/S-B-Iqbal/Predicting-Power-Output-of-a-combined-cycle-power-plant.)](https://github.com/S-B-Iqbal/Predicting-Power-Output-of-a-combined-cycle-power-plant./stargazers)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=S-B-Iqbal&layout=compact)](https://github.com/S-B-Iqbal/github-readme-stats)
 <!--
 **S-B-Iqbal/S-B-Iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
