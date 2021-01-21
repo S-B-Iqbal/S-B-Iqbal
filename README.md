@@ -16,6 +16,28 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img height="20" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png"></code>
 
+## Projects
+
+### Regression
+****
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Estimating Power Production](https://github.com/S-B-Iqbal/Predicting-Power-Output-of-a-combined-cycle-power-plant.)    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>[Estimating Insurance Cost](https://github.com/S-B-Iqbal/Estimating-insurance-costs)    
+
+### Classification
+****
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Snore Detection](https://github.com/S-B-Iqbal/Spindle-Detection)    
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Loan Default](https://github.com/S-B-Iqbal/German-Credit-Data-Analysis)    
+
+### Time-Series Forecasting
+***
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Stock Price Prediction](https://github.com/S-B-Iqbal/Rendezvous-with-Time-Series-Forecasting)    
+
+### Web-Scraping
+***
+
+### NLP
+***
+
 
 <!--
 **S-B-Iqbal/S-B-Iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
