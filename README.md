@@ -34,8 +34,11 @@
 
 ### Web-Scraping
 ***
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Weather Data](https://github.com/S-B-Iqbal/A-Hard-Rains-a-Gonna-Fall)
 ### NLP
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[News Summary Generation](https://github.com/S-B-Iqbal/Inshorts-on-steroids)
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Fuzzy String Search](https://github.com/S-B-Iqbal/The-subtle-art-of-not-giving-a-Fuzz)
 ***
 
 
