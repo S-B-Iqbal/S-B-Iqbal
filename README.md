@@ -39,7 +39,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Fuzzy String Search](https://github.com/S-B-Iqbal/The-subtle-art-of-not-giving-a-Fuzz)
 ***
     
-![](https://komarev.com/ghpvc/?username=s-b-iqbal&label=PROFILE+VIEWS&color=blueviolet)
 
 <!--
 **S-B-Iqbal/S-B-Iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
