@@ -27,6 +27,11 @@ print(asdict(me))
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&custom_title=My Github Stats&hide=prs&show_icons=true&theme=algolia"  />
 </a>
 
+## My Blogs
+
+<!-- BLOGPOSTS:START -->
+<!-- BLOGPOSTS:END -->
+
 
 ## Projects
 
