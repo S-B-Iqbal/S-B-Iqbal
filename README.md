@@ -1,18 +1,32 @@
 <h1 align='center'> Aloha! :wave:</h1>
 
 
+<h3>
+    
+```python
+from dataclasses import dataclass,asdict
+ 
+@dataclass
+class DataScience:
+    languages: tuple[str, ...] = ("Python", "R")
+    tools    : tuple[str, ...] = ("ScikitLearn", "PyTorch", "SpaCy","HuggingFace", "Scrapy")
+    databases: tuple[str, ...] = ("SQLite", "MySQL")
+    skills   : tuple[str, ...] = ("Machine Learning", "Deep Learning", "Forecasting", "NLP", "Statistics")
+    socialmedia  : str             = field(default="Anonymous!", 
+                                       metadata={
+                                        'Blogs': 'https://s-b-iqbal.github.io/Reflexione/',
+                                        'Twitter': '@MusingIqbal'})
+
+
+me = DataScience()
+print(asdict(me))
+```
+</h3>
+
 <a href="https://github.com/S-B-Iqbal/S-B-Iqbal">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&custom_title=My Github Stats&hide=prs&show_icons=true&theme=algolia"  />
 </a>
 
-
-**Languages and Tools:**   
-    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="20" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png"></code>
 
 ## Projects
 
@@ -54,3 +68,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+`README` inspired from [rednafi](https://github.com/rednafi)
