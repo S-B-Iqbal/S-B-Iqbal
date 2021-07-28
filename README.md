@@ -30,6 +30,11 @@ print(asdict(me))
 ## My Blogs
 
 <!-- BLOGPOSTS:START -->
+- [The Fish and the Transferred (Alex)Net](https://s-b-iqbal.github.io/Reflexione/transfer%20learning/alexnet/pytorch/image%20classification/2021/07/23/Transfer-Learning.html)
+- [The Fish and the (Alex)Net](https://s-b-iqbal.github.io/Reflexione/alexnet/pytorch/image%20classification/2021/07/18/AlexNet-Scratch.html)
+- [Loss Functions 101](https://s-b-iqbal.github.io/Reflexione/loss/utility/regression/classification/pytorch/mnist/2021/07/12/Loss-Functions-101.html)
+- [To Fish or Not to Fish](https://s-b-iqbal.github.io/Reflexione/pytorch/dataloaders/image%20manipulation/2021/06/11/Image-Loading.html)
+- [Old Skool Image Classification](https://s-b-iqbal.github.io/Reflexione/cv/image%20classification/feature%20engineering/pytorch/cifar10/2020/06/30/Classical.html)
 <!-- BLOGPOSTS:END -->
 
 
