@@ -38,32 +38,6 @@ print(asdict(me))
 <!-- BLOGPOSTS:END -->
 
 
-## Projects
-
-### Regression
-****
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Estimating Power Production](https://github.com/S-B-Iqbal/Predicting-Power-Output-of-a-combined-cycle-power-plant.)    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>[Estimating Insurance Cost](https://github.com/S-B-Iqbal/Estimating-insurance-costs)    
-
-### Classification
-****
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Snore Detection](https://github.com/S-B-Iqbal/Spindle-Detection)    
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Loan Default](https://github.com/S-B-Iqbal/German-Credit-Data-Analysis)    
-
-### Time-Series Forecasting
-***
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Stock Price Prediction](https://github.com/S-B-Iqbal/Rendezvous-with-Time-Series-Forecasting)    
-
-### Web-Scraping
-***
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Weather Data](https://github.com/S-B-Iqbal/A-Hard-Rains-a-Gonna-Fall)
-### NLP
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[News Summary Generation](https://github.com/S-B-Iqbal/Inshorts-on-steroids)
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>[Fuzzy String Search](https://github.com/S-B-Iqbal/The-subtle-art-of-not-giving-a-Fuzz)
-***
-    
-
 <!--
 **S-B-Iqbal/S-B-Iqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
