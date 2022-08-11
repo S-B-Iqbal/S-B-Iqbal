@@ -23,9 +23,6 @@ print(asdict(me))
 ```
 </h3>
 
-<a href="https://github.com/S-B-Iqbal/S-B-Iqbal">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=S-B-Iqbal&custom_title=My Github Stats&hide=prs&show_icons=true&theme=algolia"  />
-</a>
 
 ## My Blogs
 
