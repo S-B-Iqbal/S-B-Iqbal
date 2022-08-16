@@ -23,6 +23,12 @@ print(asdict(me))
 ```
 </h3>
 
+---
+<center>
+  
+[![s-b-iqbal's](https://github-readme-stats.vercel.app/api?username=s-b-iqbal&count_private=true&show_icons=true&hide_title=true&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api?username=s-b-iqbal&count_private=true&show_icons=true&hide_title=true&theme=vision-friendly-dark)
+
+</center>
 
 ## My Blogs
 
