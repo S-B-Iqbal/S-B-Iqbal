@@ -24,20 +24,7 @@ print(asdict(me))
 </h3>
 
 ---
-<center>
-  
-[![s-b-iqbal's](https://github-readme-stats.vercel.app/api?username=s-b-iqbal&count_private=true&show_icons=true&hide_title=true&theme=vision-friendly-dark)](https://github-readme-stats.vercel.app/api?username=s-b-iqbal&count_private=true&show_icons=true&hide_title=true&theme=vision-friendly-dark)
 
-</center>
-
-## My Blogs
-
-<!-- BLOGPOSTS:START -->
-- [The Fish and the Transferred (Alex)Net](https://s-b-iqbal.github.io/Reflexione/transfer%20learning/alexnet/pytorch/image%20classification/2021/07/23/Transfer-Learning.html)
-- [The Fish and the (Alex)Net](https://s-b-iqbal.github.io/Reflexione/alexnet/pytorch/image%20classification/2021/07/18/AlexNet-Scratch.html)
-- [Loss Functions 101](https://s-b-iqbal.github.io/Reflexione/loss/utility/regression/classification/pytorch/mnist/2021/07/12/Loss-Functions-101.html)
-- [To Fish or Not to Fish](https://s-b-iqbal.github.io/Reflexione/pytorch/dataloaders/image%20manipulation/2021/06/11/Image-Loading.html)
-- [732A99 Machine Learning](https://s-b-iqbal.github.io/Reflexione/732a99/r/machine%20learning/liu/tdde01/2020/08/25/732A99.html)
 <!-- BLOGPOSTS:END -->
 
 
