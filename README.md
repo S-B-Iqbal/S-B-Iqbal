@@ -43,5 +43,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-`README` inspired from [rednafi](https://github.com/rednafi)
