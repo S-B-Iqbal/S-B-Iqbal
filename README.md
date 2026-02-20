@@ -1,28 +1,13 @@
-<h1 align='center'> Aloha! :wave:</h1>
+<h1 align='center'> Hey! :wave:</h1>
 
-
+<!--
 <h3>
     
 ```python
-from dataclasses import dataclass,asdict
- 
-@dataclass
-class DataScience:
-    languages: tuple[str, ...] = ("Python", "R")
-    tools    : tuple[str, ...] = ("ScikitLearn", "PyTorch", "SpaCy","HuggingFace", "Scrapy")
-    databases: tuple[str, ...] = ("SQLite", "MySQL")
-    skills   : tuple[str, ...] = ("Machine Learning", "Deep Learning", "Forecasting", "NLP", "Statistics")
-    socialmedia  : str             = field(default="Anonymous!", 
-                                       metadata={
-                                        'Blogs': 'https://s-b-iqbal.github.io/Reflexione/',
-                                        'Twitter': '@MusingIqbal'})
 
-
-me = DataScience()
-print(asdict(me))
 ```
 </h3>
-
+-->
 ---
 
 <!-- BLOGPOSTS:END -->
